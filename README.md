@@ -1,11 +1,11 @@
 # Introduction #
 
-This repo serves as my general purpose "Oh this is a great idea, we should make it" starter. 
-You never know what the next idea will be, but you may as well be ready for it. Obviously you should choose the technologies that fit the use case, but this is meant to get the fastest MVP out the door. 
+This repo serves as my general purpose "Oh this is a great idea, we should build it" starter. 
+You never know what the next idea will be, but you may as well be ready for it. The stack choice is purely based on my experience and may not be the best choice depending on the idea (but we don't know what that is yet). 
 
-## Web Frontend ##
+## Web Frontend
 
-- create-react-app-2 (w/ typescript)
+#### create-react-app-2 (w/ typescript)
   - axios (promise based HTTP client)
   - redux (application level state)
   - react-router (routing)
@@ -14,4 +14,12 @@ You never know what the next idea will be, but you may as well be ready for it. 
   - ESLint (force code cleanliness)
   - palantir redoodle (typed actions which flow to reducers)
 
-## Backend ##
+## Backend
+
+#### Dropwizard (Java)
+or
+#### Express (Javascript)
+
+
+
+
