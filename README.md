@@ -6,6 +6,7 @@ You never know what the next idea will be, but you may as well be ready for it. 
 ## Web Frontend
 
 #### create-react-app-2 (w/ typescript)
+Packages:
   - axios (promise based HTTP client)
   - redux (application level state)
   - react-router (routing)
@@ -17,8 +18,9 @@ You never know what the next idea will be, but you may as well be ready for it. 
 ## Backend
 
 #### Dropwizard (Java)
+  - Dropwizard is a Java framework for developing ops-friendly, high-performance, RESTful web services.
+    Dropwizard pulls together stable, mature libraries from the Java ecosystem into a simple, light-weight package that lets       you focus on getting things done.
 #### Express (NodeJS)
-
-
+  - Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and      mobile applications.
 
 
