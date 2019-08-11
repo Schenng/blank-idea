@@ -1,7 +1,7 @@
 # Introduction #
 
 This repo serves as my general purpose "Oh this is a great idea, we should make it" starter. 
-You never know what the next idea will be, but you may as well be ready for it. A great mentor told me that.
+You never know what the next idea will be, but you may as well be ready for it.
 
 ## Web Frontend ##
 
