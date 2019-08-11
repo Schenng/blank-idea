@@ -8,6 +8,7 @@ You never know what the next idea will be, but you may as well be ready for it. 
 #### create-react-app-2 (w/ typescript)
 Packages:
   - axios (promise based HTTP client)
+  - thunk (store async actions)
   - redux (application level state)
   - react-router (routing)
   - http-proxy-middleware (allows custom url proxies)
