@@ -3,7 +3,7 @@
 This repo serves as my general purpose "Oh this is a great idea, we should build it" starter. 
 You never know what the next idea will be, but you may as well be ready for it. The stack choice is purely based on my experience and may not be the best choice depending on the idea (but we don't know what that is yet). 
 
-## Web Frontend 🏠
+## Web 🏠
 
 #### create-react-app-2 (w/ typescript)
 Packages:
@@ -14,6 +14,15 @@ Packages:
   - typescript (javascript that scales)
   - ESLint (force code cleanliness)
   - palantir redoodle (typed actions which flow to reducers)
+
+## Mobile Frontend 🏡
+
+#### create-react-native-app
+React Native stock is pretty good as is.
+Packages:
+  - axios
+  - redux
+  - react-navigator
 
 ## Backend 👷
 
