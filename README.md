@@ -1,7 +1,7 @@
 # Introduction #
 
 This repo serves as my general purpose "Oh this is a great idea, we should build it" starter. 
-You never know what the next idea will be, but you may as well be ready for it. The stack choice is purely based on my experience and may not be the best choice depending on the idea (but we don't know what that is yet). 
+You never know what the next idea will be, but you may as well be ready for it. The stack choice is purely based on my experience and may not be the best choice depending on the idea.
 
 ## Web 🏠
 
