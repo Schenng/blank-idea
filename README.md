@@ -17,7 +17,7 @@ You never know what the next idea will be, but you may as well be ready for it. 
 ## Backend
 
 #### Dropwizard (Java)
-#### Express (Javascript)
+#### Express (NodeJS)
 
 
 
