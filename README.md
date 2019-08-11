@@ -15,7 +15,7 @@ Packages:
   - ESLint (force code cleanliness)
   - palantir redoodle (typed actions which flow to reducers)
 
-## Mobile Frontend 🏡
+## Mobile 🏡
 
 #### create-react-native-app
 React Native stock is pretty good as is.
