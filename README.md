@@ -23,4 +23,17 @@ Packages:
 #### Express (NodeJS)
   - Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and      mobile applications.
 
+##  Infrastructure/Deployment
+
+#### Google Cloud
+  - It's expensive but... it's got some great tools, and its kubernetes support is top notch
+#### Kubernetes
+  - Kubernetes (K8s) is an open-source system for automating deployment, scaling, and management of containerized applications.
+#### CircleCI
+  - CircleCI will handle tests, building the images via Docker, deploying to staging (on merge), and deploying to production (on release)
+#### NGINX (web server)
+  - NGINX is a free, open-source, high-performance HTTP server and reverse proxy, as well as an IMAP/POP3 proxy server. 
+#### Node/Java (application server)
+  - Depending on the backend chosen, use the default CircleCI provided images. Node:8 or OpenJDK
+
 
