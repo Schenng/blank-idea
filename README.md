@@ -3,7 +3,7 @@
 This repo serves as my general purpose "Oh this is a great idea, we should build it" starter. 
 You never know what the next idea will be, but you may as well be ready for it. The stack choice is purely based on my experience and may not be the best choice depending on the idea (but we don't know what that is yet). 
 
-## Web Frontend
+## Web Frontend 🏠
 
 #### create-react-app-2 (w/ typescript)
 Packages:
@@ -15,7 +15,7 @@ Packages:
   - ESLint (force code cleanliness)
   - palantir redoodle (typed actions which flow to reducers)
 
-## Backend
+## Backend 👷
 
 #### Dropwizard (Java)
   - Dropwizard is a Java framework for developing ops-friendly, high-performance, RESTful web services.
@@ -23,7 +23,7 @@ Packages:
 #### Express (NodeJS)
   - Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and      mobile applications.
 
-##  Infrastructure/Deployment
+##  Infrastructure/Deployment 🏗️
 
 #### Google Cloud
   - It's expensive but... it's got some great tools, and its kubernetes support is top notch
