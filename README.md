@@ -19,6 +19,7 @@ Packages:
 
 #### create-react-native-app
 React Native stock is pretty good as is.
+
 Packages:
   - axios
   - redux
