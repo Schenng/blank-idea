@@ -1,7 +1,7 @@
 # Introduction #
 
 This repo serves as my general purpose "Oh this is a great idea, we should make it" starter. 
-You never know what the next idea will be, but you may as well be ready for it.
+You never know what the next idea will be, but you may as well be ready for it. Obviously you should choose the technologies that fit the use case, but this is meant to get the fastest MVP out the door. 
 
 ## Web Frontend ##
 
@@ -15,4 +15,3 @@ You never know what the next idea will be, but you may as well be ready for it.
   - palantir redoodle (typed actions which flow to reducers)
 
 ## Backend ##
-
